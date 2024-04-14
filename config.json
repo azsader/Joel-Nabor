@@ -4,5 +4,27 @@
         "text_embed":"",
         "text_dm_on_success":"",
         "text_dm":""
+    },
+    "questions":{
+        "one_quest":{
+            "name":"",
+            "label":""
+        },
+        "two_quest":{
+            "name":"",
+            "label":""
+        },
+        "three_quest":{
+            "name":"",
+            "label":""
+        },
+        "four_quest":{
+            "name":"",
+            "label":""
+        },
+        "five_quest":{
+            "name":"",
+            "label":""
+        }
     }
-}
+}   
